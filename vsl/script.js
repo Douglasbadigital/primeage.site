@@ -7,7 +7,7 @@ const CONFIG = {
     // Exemplo: "34:00" = 34 minutos | "00:30" = 30 segundos (para testes)
     // Nota: 3 segundos extras são adicionados automaticamente como
     // compensação pelo tempo médio até o lead dar play no vídeo
-    tempoDeDelay: "23:48",
+    tempoDeDelay: "24:32",
 
     // 🔗 Links de Checkout dos Botões (Men Balance Pro)
     linkPote2: "https://travozilla.com/b?p=MBP2V1&nc=1&preview=1&b=123&fid=268&fnid=72&pfnid=1&pg=9207&template=2b&aff_id=119995&subid={subid}",
