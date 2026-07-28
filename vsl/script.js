@@ -10,9 +10,9 @@ const CONFIG = {
     tempoDeDelay: "19:13",
 
     // 🔗 Links de Checkout dos Botões (GLPatches)
-    linkPote2: "https://glpropatche.com/b?p=GPP2V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
-    linkPote6: "https://glpropatche.com/b?p=GPP6V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
-    linkPote3: "https://glpropatche.com/b?p=GPP3V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002"
+    linkPote2: "https://balancejourney.online/b?p=GPP2V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
+    linkPote6: "https://balancejourney.online/b?p=GPP6V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
+    linkPote3: "https://balancejourney.online/b?p=GPP3V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002"
 };
 
 // =====================================================================
